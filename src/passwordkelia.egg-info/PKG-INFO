@@ -1,3 +1,15 @@
+Metadata-Version: 2.4
+Name: passwordkelia
+Version: 0.0.2
+Summary: A utility package to evaluate password strength and provide a rating score.
+Author-email: Kelia <simbikelia@gmail.com>
+Project-URL: Homepage, https://github.com/yourusername/calcutils
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
 # passwordkelia
 
 A simple Python package to evaluate password strength and provide a rating score based on common security criteria.

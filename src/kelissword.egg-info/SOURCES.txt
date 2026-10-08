@@ -1,7 +1,0 @@
-pyproject.toml
-src/kelissword/__init__.py
-src/kelissword/operations.py
-src/kelissword.egg-info/PKG-INFO
-src/kelissword.egg-info/SOURCES.txt
-src/kelissword.egg-info/dependency_links.txt
-src/kelissword.egg-info/top_level.txt

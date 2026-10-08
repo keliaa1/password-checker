@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "passwordkelia"
+version = "0.0.2"
+description = "A utility package to evaluate password strength and provide a rating score."
+readme = "README.MD"
+authors = [
+    { name = "Kelia", email = "simbikelia@gmail.com" }
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.8"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/yourusername/calcutils"

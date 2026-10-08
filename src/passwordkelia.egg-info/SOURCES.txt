@@ -1,0 +1,9 @@
+README.MD
+README.md
+pyproject.toml
+src/kelissword/__init__.py
+src/kelissword/operations.py
+src/passwordkelia.egg-info/PKG-INFO
+src/passwordkelia.egg-info/SOURCES.txt
+src/passwordkelia.egg-info/dependency_links.txt
+src/passwordkelia.egg-info/top_level.txt
